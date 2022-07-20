@@ -4,14 +4,16 @@ p{
     background-color: lightgrey
 }
 
+h1 {
+  color: lightcoral;
+  text-align: center;
+}
+
 #mainHeading {
-    background-color: white;
+    background-color: lightgray;
     color: red;
     padding: 40px;
     text-align: center;
-  }
-  #h1 {
-    
   }
 
 body{
@@ -19,6 +21,6 @@ body{
   margin:8px;
       }
 
-      #testP.funParagraph{
-        color:green;
-      }
+     .green-paragraph {
+   color: green;
+}
