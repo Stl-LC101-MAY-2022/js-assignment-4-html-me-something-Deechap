@@ -1,6 +1,7 @@
 /* Write your CSS here! */
 p{
-    color:black
+    color:black;
+    background-color: lightgrey
 }
 
 #mainHeading {
@@ -8,6 +9,9 @@ p{
     color: red;
     padding: 40px;
     text-align: center;
+  }
+  #h1 {
+    
   }
 
 body{
