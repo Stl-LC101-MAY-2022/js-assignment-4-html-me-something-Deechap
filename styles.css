@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+p{
+    color:black;
+    background-color: lightgrey
+}
+
+h1 {
+  color: lightcoral;
+  text-align: center;
+}
+
+#mainHeading {
+    background-color: lightgray;
+    color: red;
+    padding: 40px;
+    text-align: center;
+  }
+
+body{
+  display:block;
+  margin:8px;
+      }
+
+     .green-paragraph {
+   color: green;
+}
